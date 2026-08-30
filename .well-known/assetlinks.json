@@ -1,14 +1,26 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.dunta12.sahabathijrah",
-            "sha256_cert_fingerprints": [
-                "19:8B:EE:A0:3E:F8:F0:36:19:C9:EC:4B:56:26:35:84:0E:DB:F2:BD:9E:DE:AC:6E:14:42:E9:ED:19:76:66:81"
-            ]
-        }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dunta12.sahabathijrah",
+      "sha256_cert_fingerprints": [
+        "19:8B:EE:A0:3E:F8:F0:36:19:C9:EC:4B:56:26:35:84:0E:DB:F2:BD:9E:DE:AC:6E:14:42:E9:ED:19:76:66:81"
+      ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dunta12.twa",
+      "sha256_cert_fingerprints": [
+        "04:E4:63:98:C3:E3:B4:65:74:C8:1A:7B:24:3B:D6:A4:94:C0:66:0A:36:B2:D1:BB:D4:F3:FB:D8:58:13:B9:C6"
+      ]
+    }
+  }
 ]
