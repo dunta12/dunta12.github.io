@@ -22,5 +22,17 @@
         "04:E4:63:98:C3:E3:B4:65:74:C8:1A:7B:24:3B:D6:A4:94:C0:66:0A:36:B2:D1:BB:D4:F3:FB:D8:58:13:B9:C6"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dunta12.sahabathijrah.en",
+      "sha256_cert_fingerprints": [
+        "57:9C:2E:CC:1D:19:76:A1:85:D0:BD:59:4A:B8:6E:E1:65:4F:A6:1B:81:FD:B3:DF:42:A2:C3:E6:A0:9F:A2:F8"
+      ]
+    }
   }
 ]
