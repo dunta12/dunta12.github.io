@@ -34,5 +34,17 @@
         "57:9C:2E:CC:1D:19:76:A1:85:D0:BD:59:4A:B8:6E:E1:65:4F:A6:1B:81:FD:B3:DF:42:A2:C3:E6:A0:9F:A2:F8"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dunta12.aiueo",
+      "sha256_cert_fingerprints": [
+        "04:71:5A:58:42:8D:E7:76:0F:3A:06:CF:DB:A1:4D:C1:62:0D:7D:75:65:C1:56:DB:8F:30:72:DF:DA:0F:6C:D5"
+      ]
+    }
   }
 ]
